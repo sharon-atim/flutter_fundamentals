@@ -1,4 +1,4 @@
-// 1. Using await for
+// Using await for to a method which iterates over a list of numbers.
 
 import 'package:flutter/material.dart';
 
